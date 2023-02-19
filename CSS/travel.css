@@ -1,0 +1,17 @@
+.tropical {
+  color: #f7325e;
+  font-family: fantasy;
+}
+  .tropical p {
+    color: #7dc410;
+    
+}img {
+  float: right;
+}
+.box {
+  border: 2px solid rgb(red, rgb(224, 74, 4), blue);
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+
+}
